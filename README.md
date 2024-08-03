@@ -1,6 +1,6 @@
 👋 Hi, I’m @AlinaZakharovadev!
 
-📌 I’m passionate about Frontend development and UX/UI deign. 
+📌 I’m passionate about Frontend development and UX/UI design. 
 
 📌 Currently diving into JavaScript and React.js to build interactive and user-friendly web experiences.
 
