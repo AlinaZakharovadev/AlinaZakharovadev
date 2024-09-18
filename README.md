@@ -2,7 +2,7 @@
 
 📌 I’m passionate about Frontend development and UX/UI design. 
 
-📌 Currently diving into JavaScript, React.js, TypeScript to build interactive and user-friendly web experiences.
+📌 Currently diving into JavaScript, TypeScript, React.js to build interactive and user-friendly web experiences.
 
 📌 Connect with me: [LinkedIn](https://www.linkedin.com/in/alina-zakharova-ux/)
 
